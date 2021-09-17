@@ -1,0 +1,12 @@
+h1 {
+    font-size: 100px;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(12, 48, 116);
+}
+
+.mijnAfbeelding {
+    border-radius: 8px;
+}
